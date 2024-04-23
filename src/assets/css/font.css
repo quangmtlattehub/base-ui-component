@@ -1,0 +1,34 @@
+@font-face {
+  font-family: "Beausite Classic Web";
+  src: url("../fonts/BeausiteClassicWeb-Bold.woff2") format("woff2"),
+    url("../fonts/BeausiteClassicWeb-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Beausite Classic Web";
+  src: url("../fonts/BeausiteClassicWeb-Regular.woff2") format("woff2"),
+    url("../fonts/BeausiteClassicWeb-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Neurial Grotesk Extrabold";
+  src: url("../fonts/Fontspring-DEMO-neurialgrotesk-extrabold.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Barmo";
+  src: url("../fonts/Barmo.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
