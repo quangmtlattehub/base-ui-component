@@ -43,7 +43,7 @@ function SelectOptions(props: SelectOptionsProps) {
   return (
     <form
       className={clsx(
-        "relative z-30 select",
+        "relative z-30 select w-[300px]",
         classNameContainer && classNameContainer
       )}
     >

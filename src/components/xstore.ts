@@ -95,6 +95,50 @@ const xstore = {
         },
       ],
     },
+    connectWallet: [
+      {
+        id: 1,
+        imageUrl: "/images/wallet/coinbase.svg",
+        name: "Coinbase",
+      },
+      {
+        id: 2,
+        imageUrl: "/images/wallet/metamask.svg",
+        name: "Metamask",
+        className: "bg-white",
+      },
+      {
+        id: 3,
+        imageUrl: "/images/wallet/okx.svg",
+        name: "OKX wallet",
+      },
+      {
+        id: 4,
+        imageUrl: "/images/wallet/phantom.svg",
+        name: "Phantom",
+      },
+      {
+        id: 5,
+        imageUrl: "/images/wallet/rainbow.svg",
+        name: "Rainbow",
+      },
+      {
+        id: 6,
+        imageUrl: "/images/wallet/trust.svg",
+        name: "Trust wallet",
+      },
+      {
+        id: 7,
+        imageUrl: "/images/wallet/torus.svg",
+        name: "Torus wallet",
+      },
+      {
+        id: 8,
+        imageUrl: "/images/wallet/walletconnect.svg",
+        name: "WalletConnect",
+        className: "bg-white",
+      },
+    ],
   },
   fontFamily: "Font",
   fontUrl: "/fonts/FiraSans-Regular.ttf",
